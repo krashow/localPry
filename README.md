@@ -15,7 +15,7 @@ El repositorio está organizado como un **Monorepo** para facilitar la gestión 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 ### Frontend
 * **Vue.js 3** (Composition API)
